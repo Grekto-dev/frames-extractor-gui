@@ -31,7 +31,7 @@ TEXTS = {
         "sel_all": "Selecionar Todos",
         "format": "Formato:",
         "total": "Total: {} frames",
-        "credits": "Desenvolvido por Pedro Nogueira. Versão 1.1.0",
+        "credits": "Desenvolvido por Pedro Nogueira. Versão 1.0.0",
         "instr": "Selecione um vídeo ou\nArraste e solte aqui",
         "extracting": "Extraindo frames...",
         "frame_cnt": "Frame: {:03d} / {:03d}",
@@ -506,4 +506,5 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     window = MainApp()
     window.show()
+
     sys.exit(app.exec())
