@@ -1,4 +1,4 @@
-# Frame Extractor Pro v1.1.0
+# Frame Extractor Pro
 
 A powerful, user-friendly Python application designed to extract high-quality frames from video files. Featuring a modern GUI built with PyQt6, it offers advanced visualization tools, batch exporting, and a responsive interface.
 
