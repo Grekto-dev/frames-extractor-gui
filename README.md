@@ -2,7 +2,7 @@
 
 A powerful, user-friendly Python application designed to extract high-quality frames from video files. Featuring a modern GUI built with PyQt6, it offers advanced visualization tools, batch exporting, and a responsive interface.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Version](https://img.shields.io/badge/version-1.1.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
@@ -96,8 +96,6 @@ The application provides a detailed log in the terminal. It tracks:
 ## 👨‍💻 Author
 
 **Pedro Nogueira**
-
-* Version: 1.0.0
 
 ---
 
